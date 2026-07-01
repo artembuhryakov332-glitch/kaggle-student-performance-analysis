@@ -9,7 +9,7 @@
 * Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib)
 * Метод главных компонент (PCA) для снижения размерности
 * Кластеризация (K-Means)
-* Алгоритмы LinearRegression, KNN, DesionTree, RandomForest
+* Алгоритмы LinearRegression, KNN, DecisionTree, RandomForest
 
 ## Признаки и их расшифровки:
 ## Описание признаков датасета (Dataset Features)
